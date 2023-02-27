@@ -8,7 +8,7 @@
 
 A very pleasant evening to one and all present here.
 We cordially welcome all of you to the AICTE-ATAL sponsored Two-week Hybrid Faculty Development Program on "Recent Advances and challenges in Artificial Intelligence, Machine Learning and Blockchain Technology" 2023.
-I am Aishwarya GS , I am Harshitha Ranjith, And we are from 2nd year B.Tech. Cyber Security. We will be the hosts for this year's FDP. 
+I am Aishwarya GS , I am Harshitha Ranjith, And we are from 2nd year B.Tech. Cyber Security. We will be the hosts for the online sessions of FDP. 
 
 Let us all start the session with a Prayer song.
 
